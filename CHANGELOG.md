@@ -4,6 +4,12 @@ All notable changes to `nova-google-autocomplete` will be documented in this fil
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
+## 2.2.3 - 2025-04-26
+
+### What's Changed
+
+- Laravel Nova version 5.5
+
 ## 1.3.0 - 2023-08-16
 
 ### What's Changed
