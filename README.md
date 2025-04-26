@@ -12,7 +12,7 @@ Fork from [emilianotisato/nova-google-autocomplete-field](https://github.com/emi
 You can install the package in to a Laravel app that uses Nova via composer:
 
 ```bash
-composer require yieldstudio/nova-google-autocomplete
+composer require slavos/nova-google-autocomplete
 ```
 
 Now publish config and localization files:
